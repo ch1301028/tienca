@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiên Cá</string>
+    <string name="facebook_app_id">1512433552314855</string>
+    <string name="rate_title">Bình chọn %s ngay</string>
+    <string name="rate_message">Cám ơn bạn đã sử dụng %s, bạn vui lòng dành chút thời gian để giúp nhà phát hành đánh 5 sao nhé!</string>
+    <string name="rate">Đánh giá %s ngay</string>
+    <string name="rate_later">Nhắc lại sau</string>
+    <string name="rate_cancel">Bỏ qua</string>
+
+
+</resources>

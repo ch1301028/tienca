@@ -1,0 +1,260 @@
+obj/local/x86/objs-debug/cocos_extension_static/Particle3D/PU/CCPUEmitterTranslator.o: \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/extensions/Particle3D/PU/CCPUEmitterTranslator.cpp \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/extensions/Particle3D/PU/CCPUEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/iostream \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCRef.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccConfig.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/android/log.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCMath.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec2.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCMathBase.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/memory \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec2.inl \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec2.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec3.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec3.inl \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec3.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Mat4.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccMacros.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCConsole.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/sys/select.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCStdC.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccRandom.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec4.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec4.inl \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Mat4.inl \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec4.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Mat4.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Quaternion.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Quaternion.inl \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptCompiler.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptParser.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptLexer.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/CCParticle3DEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUDynamicAttribute.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSimpleSpline.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUParticleSystem3D.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./2d/CCNode.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCVector.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCProtocols.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccTypes.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCGeometry.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCGL.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/android/CCGL-android.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/GLES2/gl2platform.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/KHR/khrplatform.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/GLES2/gl2.h \
+ /Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/GLES2/gl2ext.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./renderer/CCTexture2D.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCScriptSupport.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCCommon.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCTouch.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCEventTouch.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCEvent.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCEventKeyboard.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCAffineTransform.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/CCParticleSystem3D.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUDynamicAttributeTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUEmitterManager.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUBoxEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUBoxEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUCircleEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUCircleEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPULineEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPULineEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUMeshSurfaceEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUMeshSurfaceEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPointEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPointEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPositionEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPositionEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSlaveEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSlaveEmitter.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUListener.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSphereSurfaceEmitterTranslator.h \
+ /Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSphereSurfaceEmitter.h
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/extensions/Particle3D/PU/CCPUEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/iostream:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCRef.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccConfig.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/android/log.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCMath.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec2.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCMathBase.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/memory:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec2.inl:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec2.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec3.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec3.inl:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec3.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Mat4.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccMacros.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCConsole.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/sys/select.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCStdC.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccRandom.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec4.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec4.inl:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Mat4.inl:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Vec4.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Mat4.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Quaternion.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/Quaternion.inl:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptCompiler.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptParser.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUScriptLexer.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/CCParticle3DEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUDynamicAttribute.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSimpleSpline.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUParticleSystem3D.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./2d/CCNode.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCVector.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCProtocols.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/ccTypes.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCGeometry.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCGL.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/android/CCGL-android.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/GLES2/gl2platform.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/KHR/khrplatform.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/GLES2/gl2.h:
+
+/Volumes/Data/Game/Cocos2dx/android-ndk-r10d/platforms/android-19/arch-x86/usr/include/GLES2/gl2ext.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./renderer/CCTexture2D.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCScriptSupport.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./platform/CCCommon.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCTouch.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCEventTouch.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCEvent.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./base/CCEventKeyboard.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./math/CCAffineTransform.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/CCParticleSystem3D.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUDynamicAttributeTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUEmitterManager.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUBoxEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUBoxEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUCircleEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUCircleEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPULineEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPULineEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUMeshSurfaceEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUMeshSurfaceEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPointEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPointEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPositionEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUPositionEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSlaveEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSlaveEmitter.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUListener.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSphereSurfaceEmitterTranslator.h:
+
+/Volumes/Data/Game/Cocos2dx/projects/Fish02/proj.android/../cocos2d/cocos/./../extensions/Particle3D/PU/CCPUSphereSurfaceEmitter.h:
